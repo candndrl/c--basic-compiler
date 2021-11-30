@@ -1,0 +1,21 @@
+C:\Users\can dündarlı\Desktop\nesne proje2\nesne proje2\obj\Debug\nesne proje2.csprojAssemblyReference.cache
+C:\Users\can dündarlı\Desktop\nesne proje2\nesne proje2\obj\Debug\nesne proje2.csproj.CoreCompileInputs.cache
+C:\Users\can dündarlı\Desktop\nesne proje2\nesne proje2\bin\Debug\nesne proje2.exe.config
+C:\Users\can dündarlı\Desktop\nesne proje2\nesne proje2\bin\Debug\nesne proje2.exe
+C:\Users\can dündarlı\Desktop\nesne proje2\nesne proje2\bin\Debug\nesne proje2.pdb
+C:\Users\can dündarlı\Desktop\nesne proje2\nesne proje2\obj\Debug\nesne proje2.exe
+C:\Users\can dündarlı\Desktop\nesne proje2\nesne proje2\obj\Debug\nesne proje2.pdb
+C:\Users\can dündarlı\Desktop\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\bin\Debug\nesne proje2.exe.config
+C:\Users\can dündarlı\Desktop\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\bin\Debug\nesne proje2.exe
+C:\Users\can dündarlı\Desktop\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\bin\Debug\nesne proje2.pdb
+C:\Users\can dündarlı\Desktop\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\obj\Debug\nesne proje2.csprojAssemblyReference.cache
+C:\Users\can dündarlı\Desktop\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\obj\Debug\nesne proje2.csproj.CoreCompileInputs.cache
+C:\Users\can dündarlı\Desktop\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\obj\Debug\nesne proje2.exe
+C:\Users\can dündarlı\Desktop\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\obj\Debug\nesne proje2.pdb
+C:\Users\can dündarlı\Desktop\c# proje\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\obj\Debug\nesne proje2.csprojAssemblyReference.cache
+C:\Users\can dündarlı\Desktop\c# proje\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\obj\Debug\nesne proje2.csproj.CoreCompileInputs.cache
+C:\Users\can dündarlı\Desktop\c# proje\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\obj\Debug\nesne proje2.exe
+C:\Users\can dündarlı\Desktop\c# proje\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\obj\Debug\nesne proje2.pdb
+C:\Users\can dündarlı\Desktop\c# proje\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\bin\Debug\nesne proje2.exe.config
+C:\Users\can dündarlı\Desktop\c# proje\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\bin\Debug\nesne proje2.exe
+C:\Users\can dündarlı\Desktop\c# proje\B226p_can_dündarlı\Nesneye dayalı programlama proje\nesne proje2\bin\Debug\nesne proje2.pdb
